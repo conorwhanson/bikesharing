@@ -1,4 +1,9 @@
-# bikesharing
-Bike Sharing business research using Tableau
+# Citibike Bikesharing in Des Moines
 
-On 14.2.2
+## Purpose & Overview
+The purpose of this analysis was to draw on Citibike bikesharing data gathered from New York City in August of 2019. The dataset contains helpful demographic information, average trip duration, the most popular times to get a bike, and the kind of user (whether a generic customer or a subscriber), among other helpful data. Based on this data a business proposal is put forth which seeks to replicate this business in Des Moines, IA.
+
+## Results
+
+
+## Summary & Recommendations
