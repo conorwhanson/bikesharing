@@ -31,3 +31,5 @@ Finally, maintenance will be key to ensure smooth operation of daily bike rental
 ![bike_trips_by_ID](https://github.com/conorwhanson/bikesharing/blob/main/resources/bike_repairs.png)
 
 ### Summary & Recommendations
+Based on the NYC Citibkie data a number of conclusions may be tentatively drawn to apply to a bike sharing business in Des Moines. 
+1. 
