@@ -21,8 +21,8 @@ Demographic data is key so as to offer a service to those who would really enjoy
 ![Trips_weekday_hour](https://github.com/conorwhanson/bikesharing/blob/main/resources/trips_by_weekday_hour.png)
 
 
-Knowing how long a user rents a bike will help to make sure enough bikes are available. Further, it will aid in understanding how the bikes are utilized (short trips or long trips). The overwhelming majority of bikes are used for short duration trips of roughly 5 minutes. Additionally, these short trips are done by males at a rate of 3 to 1 compared to females. Short trips mean faster bike turnover between users, increasing the need for bike availability as well as maintenance to keep bikes road-ready.
-
+Knowing how long a user rents a bike will help to make sure enough bikes are available. Further, it will aid in understanding how the bikes are utilized (short trips or long trips). The overwhelming majority of bikes are used for short duration trips of roughly 5 minutes. Additionally, these short trips are done by males at a rate of 3 to 1 compared to females. Short trips mean faster bike turnover between users, increasing the need for bike availability as well as maintenance to keep bikes road-ready. |
+-------------------------------|
 ![checkout_duration](https://github.com/conorwhanson/bikesharing/blob/main/resources/Checkout_Duration.png)
 ![checkout_duration_gender](https://github.com/conorwhanson/bikesharing/blob/main/resources/Checkout_durationgender.png)
 
