@@ -26,10 +26,11 @@ Knowing how long a user rents a bike will help to make sure enough bikes are ava
 ![checkout_duration](https://github.com/conorwhanson/bikesharing/blob/main/resources/Checkout_Duration.png)
 ![checkout_duration_gender](https://github.com/conorwhanson/bikesharing/blob/main/resources/Checkout_durationgender.png)
 
-Finally, maintenance will be key to ensure smooth operation of daily bike rentals. Tracking bike usage by bike ID helps to know when a bike is due for maintenance, as well as which bikes get the most use and therefore will need more frequent maintenance. 
-
+Finally, maintenance will be key to ensure smooth operation of daily bike rentals. Tracking bike usage by bike ID helps to know when a bike is due for maintenance, as well as which bikes get the most use and therefore will need more frequent maintenance. |
+--------------------------------|
 ![bike_trips_by_ID](https://github.com/conorwhanson/bikesharing/blob/main/resources/bike_repairs.png)
 
 ### Summary & Recommendations
 Based on the NYC Citibkie data a number of conclusions may be tentatively drawn to apply to a bike sharing business in Des Moines. 
-1. 
+
+1. Males use it most
