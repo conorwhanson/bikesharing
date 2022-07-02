@@ -13,14 +13,14 @@ Starting Locations                                 | Ending Locations
 
 Demographic data is key so as to offer a service to those who would really enjoy and utilize it. Not only do males represent the majority of bike users, but an overwhelming majority of the subscribers are males. Clearly, males utilize Citibike most often and are more likely to be paying subscribers of the service. Not only this, but Thursday between 5-6pm is the most popular day to rent a bike, with Saturday between 11-6pm having a steady stream of an average of 25,000 - 30,000 users per hour.
 
-Trips by Gender by Weekday                       | Trips by Weekday per Hour 
-:-----------------------------------------------:|:------------------------------------------------:
-![Trips_by_gender](https://github.com/conorwhanson/bikesharing/blob/main/resources/trips_by_weekday_gender.png) |
-![Trips_weekday_hour](https://github.com/conorwhanson/bikesharing/blob/main/resources/trips_by_weekday_hour.png)
+Trips by Gender by Weekday                       | 
+:-----------------------------------------------:|
+![Trips_by_gender](https://github.com/conorwhanson/bikesharing/blob/main/resources/trips_by_weekday_gender.png)
 
-User Type Trips by Gender/Weekday                |
-:-----------------------------------------------:|:
+User Type Trips by Gender/Weekday                | Trips by Weekday per Hour 
+:-----------------------------------------------:|:------------------------------------------------:
 ![Usertype_trips](https://github.com/conorwhanson/bikesharing/blob/main/resources/usertype_weekday_gender.png) |
+![Trips_weekday_hour](https://github.com/conorwhanson/bikesharing/blob/main/resources/trips_by_weekday_hour.png)
 
 
 Knowing how long a user rents a bike will help to make sure enough bikes are available. Further, it will aid in understanding how the bikes are utilized (short trips or long trips). The overwhelming majority of bikes are used for short duration trips of roughly 5 minutes. Additionally, these short trips are done by males at a rate of 3 to 1 compared to females. Short trips mean faster bike turnover between users, increasing the need for bike availability as well as maintenance to keep bikes road-ready.
