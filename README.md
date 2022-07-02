@@ -7,7 +7,7 @@ The purpose of this analysis was to draw on Citibike bikesharing data gathered f
 
 ### Results
 
-Beginning with a geographical overview of Manhattan helps visualize the most popular starting and ending locations for bike rentals. Both starting and ending locations are heavily clustered to the south of Central Park. This suggests that there are perhaps locations or attractions which are highly sought after or desirable to visit. | 
+Beginning with a geographical overview of Manhattan helps visualize the most popular starting and ending locations for bike rentals. Both starting and ending locations are heavily clustered to the south of Central Park. This suggests that there are perhaps locations or attractions which are highly sought after or desirable to visit.
 :-------------------------------------------------:|
 ![Starting_Locations](https://github.com/conorwhanson/bikesharing/blob/main/resources/top_starting_locations.png) ![Ending_Locations](https://github.com/conorwhanson/bikesharing/blob/main/resources/top_ending_locations.png)
 
