@@ -18,7 +18,7 @@ Demographic data is key so as to offer a service to those who would really enjoy
 ![Trips_by_gender](https://github.com/conorwhanson/bikesharing/blob/main/resources/trips_by_weekday_gender.png)
 
 User Type Trips | Trips by Weekday per Hour
-:--------------:|:-------------------------:   
+:--------------:|:-----------------------------------------------------------:   
 ![Usertype_trips](https://github.com/conorwhanson/bikesharing/blob/main/resources/usertype_weekday_gender.png) |
 ![Trips_weekday_hour](https://github.com/conorwhanson/bikesharing/blob/main/resources/trips_by_weekday_hour.png)
 
