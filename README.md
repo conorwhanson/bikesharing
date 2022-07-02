@@ -14,7 +14,6 @@ Starting Locations                                 | Ending Locations
 Demographic data is key so as to offer a service to those who would really enjoy and utilize it. Not only do males represent the majority of bike users, but an overwhelming majority of the subscribers are males. Clearly, males utilize Citibike most often and are more likely to be paying subscribers of the service. Not only this, but Thursday between 5-6pm is the most popular day to rent a bike, with Saturday between 11-6pm having a steady stream of an average of 25,000 - 30,000 users per hour. |
 ------------------------------|
 ![Trips_by_gender](https://github.com/conorwhanson/bikesharing/blob/main/resources/trips_by_weekday_gender.png)
-
 ![Usertype_trips](https://github.com/conorwhanson/bikesharing/blob/main/resources/usertype_weekday_gender.png) ![Trips_weekday_hour](https://github.com/conorwhanson/bikesharing/blob/main/resources/trips_by_weekday_hour.png) 
 
 
