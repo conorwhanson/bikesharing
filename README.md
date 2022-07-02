@@ -28,4 +28,6 @@ Finally, maintenance will be key to ensure smooth operation of daily bike rental
 ### Summary & Recommendations
 Based on the NYC Citibkie data a number of conclusions may be tentatively drawn to apply to a bike sharing business in Des Moines. 
 
-1. Males use it most
+1. Males use the service most. The overwhelming amount of bike rentals are by males and the majority less than 30 minutes. Further demographic research of Des Moines is needed to find out the area where the population density of males is highest. Not only this, but I would recommend a further data visualization that breaks down the ages of all genders, as this could impact the location of bike rental hubs (closer to colleges, nature preserves, etc) and would help create a more granular picture of bike usage.
+
+2. 
