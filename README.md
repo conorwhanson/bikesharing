@@ -1,3 +1,4 @@
+
 # Citibike Bikesharing in Des Moines, IA
 ![bike](https://github.com/conorwhanson/bikesharing/blob/main/resources/citi.png)
 
@@ -21,7 +22,7 @@ Knowing how long a user rents a bike will help to make sure enough bikes are ava
 ![checkout_duration](https://github.com/conorwhanson/bikesharing/blob/main/resources/Checkout_Duration.png)
 ![checkout_duration_gender](https://github.com/conorwhanson/bikesharing/blob/main/resources/Checkout_durationgender.png)
 
-Finally, maintenance will be key to ensure smooth operation of daily bike rentals. Tracking bike usage by bike ID helps to know when a bike is due for maintenance, as well as which bikes get the most use and therefore will need more frequent maintenance. |
+Finally, maintenance will be key to ensure smooth operation of daily bike rentals. Tracking bike usage by bike ID will indicate when a bike is due for maintenance, as well as which bikes get the most use and therefore will need more frequent maintenance. This can also aid in rotating bikes to different hubs to ensure even usage. |
 --------------------------------|
 ![bike_trips_by_ID](https://github.com/conorwhanson/bikesharing/blob/main/resources/bike_repairs.png)
 
@@ -30,4 +31,8 @@ Based on the NYC Citibkie data a number of conclusions may be tentatively drawn 
 
 1. Males use the service most. The overwhelming amount of bike rentals are by males and the majority less than 30 minutes. Further demographic research of Des Moines is needed to find out the area where the population density of males is highest. Not only this, but I would recommend a further data visualization that breaks down the ages of all genders, as this could impact the location of bike rental hubs (closer to colleges, nature preserves, etc) and would help create a more granular picture of bike usage.
 
-2. 
+2. Bike maintenance will be crucial to keep bike rentals flowing. Given the data above, I'd recommend primarily early morning maintenance schedules, with some midday Wednesday as well, focusing particularly on high-use bike rental hubs and taking place prior to high-volume rental days.
+
+3. The location of bike rental hubs will be of central importance as well. Further research on what attractions are available and popular in Des Moines will aid in choosing a location that will maximize bike usage and be of the greatest benefit to users who would like to explore the city. 
+
+4. The majority of bike users in NYC are male subscribers. Further analysis into male sbscriber usage with a data visualization would help understand when these customers are most likely to use bikes, for how long, and where they typically use them.
