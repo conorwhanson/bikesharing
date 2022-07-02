@@ -14,7 +14,7 @@ Starting Locations                                 | Ending Locations
 Demographic data is key so as to offer a service to those who would really enjoy and utilize it. Not only do males represent the majority of bike users, but an overwhelming majority of the subscribers are males. Clearly, males utilize Citibike most often and are more likely to be paying subscribers of the service.
 
 Trips by Gender by Weekday                         | User Type Trips by Gender/Weekday
-:-------------------------------------------------:|:----------------------------------------------:
+-------------------------------------------------|----------------------------------------------
 ![Trips_by_gender](https://github.com/conorwhanson/bikesharing/blob/main/resources/trips_by_weekday_gender.png) |
 ![Usertype_trips](https://github.com/conorwhanson/bikesharing/blob/main/resources/usertype_weekday_gender.png)
 
