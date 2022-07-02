@@ -8,7 +8,8 @@ The purpose of this analysis was to draw on Citibike bikesharing data gathered f
 ### Results
 
 Beginning with a geographical overview of Manhattan helps visualize the most popular starting and ending locations for bike rentals. Both starting and ending locations are heavily clustered to the south of Central Park. This suggests that there are perhaps locations or attractions which are highly sought after or desirable to visit.
-|:-------------------------------------------------:|
+
+:-------------------------------------------------:|
 ![Starting_Locations](https://github.com/conorwhanson/bikesharing/blob/main/resources/top_starting_locations.png) ![Ending_Locations](https://github.com/conorwhanson/bikesharing/blob/main/resources/top_ending_locations.png)
 
 Demographic data is key so as to offer a service to those who would really enjoy and utilize it. Not only do males represent the majority of bike users, but an overwhelming majority of the subscribers are males. Clearly, males utilize Citibike most often and are more likely to be paying subscribers of the service. Not only this, but Thursday between 5-6pm is the most popular day to rent a bike, with Saturday between 11-6pm having a steady stream of an average of 25,000 - 30,000 users per hour. |
