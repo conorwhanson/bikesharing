@@ -5,7 +5,7 @@
 The purpose of this analysis was to draw on Citibike bikesharing data gathered from New York City in August of 2019. The dataset contains helpful demographic information, average trip duration, the most popular times to get a bike, and the kind of user (whether a generic customer or a subscriber), among other helpful data. Based on this data [a Tableau dashboard](https://public.tableau.com/views/CitibikeChallenge_16567013206560/CitibikeinNewYork?:language=en-US&:display_count=n&:origin=viz_share_link) was created to visualize the NYC data to assist in replicating this business in Des Moines, IA.
 
 ### Results
-Beginning with a geographical overview of Manhattan helps visualize the most popular starting and ending locations for bike rentals. Both starting and ending locations are heavily clustered to the south of Central Park. This suggests that there are perhaps locations or attractions which are highly sought after or disirable to visit.
+Beginning with a geographical overview of Manhattan helps visualize the most popular starting and ending locations for bike rentals. Both starting and ending locations are heavily clustered to the south of Central Park. This suggests that there are perhaps locations or attractions which are highly sought after or desirable to visit.
 
 Starting Locations                                 | Ending Locations
 :-------------------------------------------------:|:----------------------------------------------:
@@ -25,5 +25,9 @@ Knowing how long a user rents a bike will help to make sure enough bikes are ava
 
 ![checkout_duration](https://github.com/conorwhanson/bikesharing/blob/main/resources/Checkout_Duration.png)
 ![checkout_duration_gender](https://github.com/conorwhanson/bikesharing/blob/main/resources/Checkout_durationgender.png)
+
+Finally, maintenance will be key to ensure smooth operation of daily bike rentals. Tracking bike usage by bike ID helps to know when a bike is due for maintenance, as well as which bikes get the most use and therefore will need more frequent maintenance. 
+
+![bike_trips_by_ID](https://github.com/conorwhanson/bikesharing/blob/main/resources/bike_repairs.png)
 
 ### Summary & Recommendations
