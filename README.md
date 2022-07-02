@@ -26,6 +26,6 @@ Knowing how long a user rents a bike will help to make sure enough bikes are ava
 Checkout Duration                                  | Checkout Duration by Gender
 :-------------------------------------------------:|:----------------------------------------------:
 ![checkout_duration](https://github.com/conorwhanson/bikesharing/blob/main/resources/Checkout_Duration.png)
-| ![checkout_duration_gender](https://github.com/conorwhanson/bikesharing/blob/main/resources/Checkout_durationgender.png
-)
+| ![checkout_duration_gender](https://github.com/conorwhanson/bikesharing/blob/main/resources/Checkout_durationgender.png)
+
 ### Summary & Recommendations
